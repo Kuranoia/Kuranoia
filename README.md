@@ -12,15 +12,15 @@ Note: you have a better chance at reaching me on discord!
 ************
 
 ## Projects, languages, what I work on
-I'm a Developer at [https://iteki.pw](Iteki), a small private server based on the [https://github.com/cmyuiosu/gulag](Gulag) framework.
+I'm a Developer at [Iteki](https://iteki.pw), a small private server based on cmyui's [gulag](https://github.com/cmyuiosu/gulag) framework.
 Aside from that, I mostly do things that I enjoy, such as making discord bots and various tools to make my programming / computer life more efficient.
 
 ************
 
 ## Social media
-Twitter: [https://twitter.com/defunctionist](@defunctionist)
-Twitch: [https://twitter.com/onisleep](@onisleep)
-YouTube: [https://www.youtube.com/channel/UC4otKjPWRqf7JmFoMmy6u6Q](@alfie)
+Twitter: [@defunctionist](https://twitter.com/defunctionist)
+Twitch: [@onisleep](https://twitter.com/onisleep)
+YouTube: [@alfie](https://www.youtube.com/channel/UC4otKjPWRqf7JmFoMmy6u6Q)
 
 ************
 
