@@ -3,11 +3,11 @@ I'm Alfie, 15 years old and trying to make my life a little bit brighter by usin
 ************
 
 ## About me
-Currently learning: TypeScript, C#, Lua, Game Design
-Pronouns: he/him, they/them (either are OK!)
-Discord: alfie#1234
-Email: alfie@toromi.cyou
-Note: you have a better chance at reaching me on discord!
+* Currently learning: TypeScript, C#, Lua, Game Design
+* Pronouns: he/him, they/them (either are OK!)
+* Discord: alfie#1234
+* Email: alfie@toromi.cyou
+* Note: you have a better chance at reaching me on discord!
 
 ************
 
@@ -18,9 +18,9 @@ Aside from that, I mostly do things that I enjoy, such as making discord bots an
 ************
 
 ## Social media
-Twitter: [@defunctionist](https://twitter.com/defunctionist)
-Twitch: [@onisleep](https://twitter.com/onisleep)
-YouTube: [@alfie](https://www.youtube.com/channel/UC4otKjPWRqf7JmFoMmy6u6Q)
+* Twitter: [@defunctionist](https://twitter.com/defunctionist)
+* Twitch: [@onisleep](https://twitter.com/onisleep)
+* YouTube: [@alfie](https://www.youtube.com/channel/UC4otKjPWRqf7JmFoMmy6u6Q)
 
 ************
 
